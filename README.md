@@ -1,0 +1,1 @@
+# Custom responsive website layout barebone.
